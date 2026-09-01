@@ -1,0 +1,6 @@
+{
+  "name": "Mandarin Audio Learn - 3000 Kosakata",
+  "description": "Aplikasi belajar 3000 kosakata bahasa Mandarin sehari-hari dengan pengucapan audio berulang, pengaturan kecepatan live, mode blind recall sembunyi kata, dan metode hafalan kumulatif 5 kata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
